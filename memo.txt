@@ -1,0 +1,7 @@
+# chromedriverのパス
+https://googlechromelabs.github.io/chrome-for-testing/
+https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/mac-x64/chromedriver-mac-x64.zip
+
+# 使い方
+サイトが開いたらタイピングゲームがスタートするまで手動で進める。
+あとは放置してたら勝手にタイピングされる。
